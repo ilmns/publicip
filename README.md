@@ -1,7 +1,7 @@
 # publicip
 This is simple script for getting public ip and country locate.
 
-git clone https://github.com/ilmns/publicip.git
+git clone https://github.com/ilmns/publicip.git &&
 cp ip.py /usr/bin/ip
 
 Open terminal and type "ip".
